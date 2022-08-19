@@ -1,0 +1,43 @@
+.nav-links {
+    display: inline-flex;
+    float: right;
+    margin: .5em;
+    list-style: none;
+    position: absolute;
+    top: 50px;
+    right: 20px;
+}
+
+a {
+    padding: 10px;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width: 700px;
+}
+
+.sub-section {
+    float: right;
+    width: 275px;
+    padding-right: 200px;
+}
+
+h2 {
+    justify-content: center;
+}
+
+section{
+    width: 50%;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+img {;
+}
+
